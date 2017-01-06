@@ -1,0 +1,13 @@
+body{
+    background: #F7F7F7;
+}
+.border-bottom{
+    border-bottom: 2px solid #C8C8C8;
+}
+.container{
+    background: #FFF;
+    margin-top:10px; 
+}
+h2{
+    margin-bottom: 20px;
+}
